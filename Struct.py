@@ -17,4 +17,4 @@ config = {
 # 启动isaacsim应用
 simulation_app = SimulationApp(config)
 
-# 
+# 3. 导入核心组件 (必须在 SimulationApp 启动后导入)
